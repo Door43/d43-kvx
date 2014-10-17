@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kvx:home|Door43 (kvx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kvx|d43-kvx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kvx/archive/master.zip|d43-kvx.zip]]
+
+**Recent Changes**
+{{changes>ns = kvx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kvx|Ethnologue data]]
+
